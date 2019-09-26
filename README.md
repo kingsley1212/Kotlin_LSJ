@@ -1,3 +1,4 @@
+# 这个是复制别人项目上传的，自己学习用的
 自Google在2017的I/O大会上宣布Android支持Kotlin，到现在Kotlin语言已受到大批Android开发者的追捧，许多大厂已经使用纯Kotlin进行Android开发
 
 2018的I/O大会又发布可跨平台的UI框架Flutter ，支持在Android和iOS平台运行
